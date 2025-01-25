@@ -44,7 +44,7 @@ Digite o segundo numero:
 Saída:
 ```
 SOMA = 10
-
+```
 ## 🗂 Estrutura do código
 
 O código é composto por:
